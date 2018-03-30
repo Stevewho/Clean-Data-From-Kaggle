@@ -1,2 +1,4 @@
 ### kaggle: Cleaning Challenge
-hosted by (Rachael TatmanData ) [https://www.kaggle.com/rtatman]
+hosted by [Rachael TatmanData] (https://www.kaggle.com/rtatman)
+                                
+                                
